@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>My Hobbies</title>
+  </head>
+  <body>
+    <h3>My Hobbies</h3>
+    <hr>
+    <ol>
+      <li>Drawing</li>
+      <li>Web Developing</li>
+      <li>Farming</li>
+      <li>Long Rides</li>
+    </ol>
+  <hr>
+   <button onclick="window.location.href='index.html';" name="home">Home</button>
+  </body>
+</html>

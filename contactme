@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h2>Contact Me</h2>
+    <hr>
+    <br>Federal Bank Retail Sales Team <br> Ground Floor Federal Towers <br>MarineDrive Ernakulam
+    <br><br>Email:vaisakht014@gmail.com
+    <br>Mobile:+91 90 48 59 56 85
+    <br>
+    <h4>Submit Your Queries</h4>
+    <form action="mailto:vaisakht014@gmail.com" method="post" enctype="text/plain">
+      <table>
+        <tr>
+          <td><label>Your Name</label></td>
+          <td><input type="text" name="name" value=""></td>
+        </tr>
+        <tr>
+          <td><label for="email">Enter Your Email</td>
+            <td>  <input type="email" name="email" value=""</td>
+        </tr>
+        <tr>
+          <td><label>Enter Your Queries</label></td>
+          <td><textarea name="Your Queries" rows="8" cols="80"></textarea></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td><input type="submit" name="" value="SUBMIT">  </td>
+        </tr>
+      </table>
+
+    </form>
+    <hr>
+    <button onclick="window.location.href='index.html';" name="home">Home</button>
+  </body>
+</html>
